@@ -1,10 +1,10 @@
-### Hi there 👋, My name is Man
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manusea&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Manusea)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manusea)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manusea&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Manusea)  
+# Chanantaphon Chansuksri
 
 
 - 🔭 I’m currently working on part-time as a full-stack developer at WEDO, SCG @WEDO @SCG 
