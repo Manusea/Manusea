@@ -58,7 +58,7 @@ My name is Chanantaphon Chansuksri or you can called me in short **"Man"**. I'm 
 - **CovidVisualization** website display COVID-19 data situation in Thailand developed with Angular.
 - **MOC Application** mobile application developed with React-Native, Express.js (Node.js) and MongoDB Database.
 
-## :mailbox: Contact me any time
+## :mailbox: Contact me anytime
 - E-Mail: chanantaphon.cha@gmail.com
 - Linkedin: https://www.linkedin.com/in/chanantaphon/
 - Personal Website: https://chanantaphon.netlify.app/
