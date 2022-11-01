@@ -59,7 +59,7 @@ My name is Chanantaphon Chansuksri or you can called me in short **"Man"**. I'm 
 - **MOC Application** mobile application developed with React-Native, Express.js (Node.js) and MongoDB Database.
 
 ## :mailbox: Contact me anytime
-- E-Mail: chanantaphon.cha@gmail.com
+- E-mail: chanantaphon.cha@gmail.com
 - Linkedin: https://www.linkedin.com/in/chanantaphon/
 - Personal Website: https://chanantaphon.netlify.app/
 - Tel: +66955033632
