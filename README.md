@@ -36,6 +36,7 @@ My name is Chanantaphon Chansuksri or you can called me in short **"Man"**. I'm 
 
 ### :point_right: Database & Cloud Computing
 ![Firebase](https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0088d5?style=for-the-badge&logo=azure&logoColor=white)
