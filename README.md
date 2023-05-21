@@ -42,7 +42,8 @@ My name is Chanantaphon Chansuksri or you can called me in short **"Man"**. I'm 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0088d5?style=for-the-badge&logo=azure&logoColor=white)
 
 ## 💼 Experience
-- WEDO Young Talent Program 2022 (Internship Program) at WEDO, SCG in Jun 2022 - Aug 2022 as a full-stack developer.
+- WEDO Young Talent Program 2022 (Internship Program) at WEDO, SCG in Jun 2022 - Aug 2022 as a full-stack developer
+- Software Engineer Intern at Agoda during Jan 2023 - May 2023
 
 ## 📈 Github Stats
 ![Manusea's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusea&show_icons=true&theme=dark)
